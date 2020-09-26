@@ -55,109 +55,109 @@ tommy.color("red")
 tommy.penup()
 tommy.goto(x,y)  #每次减25
 time.sleep(1)
-tommy.write("  我从不会轻易许下任何诺言",font=('微软雅黑', 12, 'bold'))
+tommy.write("  长长的距离",font=('微软雅黑', 12, 'bold'))
 time.sleep(4)
 
 tommy.color("orange")
 tommy.penup()
 tommy.goto(x,y-interval)
-tommy.write("  也从不会为一个人如此心碎",font=('微软雅黑',12,'bold'))
+tommy.write("  长长的线",font=('微软雅黑',12,'bold'))
 time.sleep(4)
 
 tommy.color("yellow")
 tommy.penup()
 tommy.goto(x,y-interval*2)
-tommy.write("  而现在我可以敞开我的心扉",font=('微软雅黑', 12, 'bold'))
+tommy.write("  长长的时间抹不断",font=('微软雅黑', 12, 'bold'))
 time.sleep(4)
 
 tommy.color("lime green")
 tommy.penup()
 tommy.goto(x,y-interval*3)  #每次减25
-tommy.write("  你是我唯一真心爱过的姑娘",font=('微软雅黑', 12, 'bold'))
+tommy.write("  今天是你的生日",font=('微软雅黑', 12, 'bold'))
 time.sleep(4)
 
 tommy.color("blue")
 tommy.penup()
 tommy.goto(x,y-interval*4)  #每次减25
-tommy.write("  愿上苍为你指引平坦的道路",font=('微软雅黑', 12, 'bold'))
+tommy.write("  远方的我一直在掂念着你",font=('微软雅黑', 12, 'bold'))
 time.sleep(4)
 
 tommy.color("cyan")
 tommy.penup()
 tommy.goto(x,y-interval*5)  #每次减25
-tommy.write("  愿命运让你遇见善良的人们",font=('微软雅黑', 12, 'bold'))
+tommy.write("  好大儿祝你生日快乐",font=('微软雅黑', 12, 'bold'))
 time.sleep(4)
 
 tommy.color("medium slate blue")
 tommy.penup()
 tommy.goto(x,y-interval*6)  #每次减25
-tommy.write("  愿远方的阳光和璀璨的灯火",font=('微软雅黑', 12, 'bold'))
+tommy.write("  下面请观看我给你写的歌",font=('微软雅黑', 12, 'bold'))
 time.sleep(4)
 
 tommy.color("red")
 tommy.penup()
 tommy.goto(x,y-interval*7)  #每次减25
-tommy.write("  为你照亮每一片未来的天空",font=('微软雅黑', 12, 'bold'))
+tommy.write("  我是你爸爸",font=('微软雅黑', 12, 'bold'))
 time.sleep(4)
 
 tommy.color("orange")
 tommy.penup()
 tommy.goto(x,y-interval*8)  #每次减25
-tommy.write("  时光就像一条奔腾的河流",font=('微软雅黑', 12, 'bold'))
+tommy.write("  我真伟大我有个好大儿",font=('微软雅黑', 12, 'bold'))
 time.sleep(4)
 
 tommy.color("yellow")
 tommy.penup()
 tommy.goto(x,y-interval*9)  #每次减25
-tommy.write("  将生命中的一切悄悄带走",font=('微软雅黑', 12, 'bold'))
+tommy.write("  她就叫何婷烨",font=('微软雅黑', 12, 'bold'))
 time.sleep(4)
 
 tommy.color("lime green")
 tommy.penup()
 tommy.goto(x,y-interval*10)  #每次减25
-tommy.write("  而我的心就像那翻涌的浪花",font=('微软雅黑', 12, 'bold'))
+tommy.write("  仔细想想我们认识了也快1年了",font=('微软雅黑', 12, 'bold'))
 time.sleep(4)
 
 tommy.color("blue")
 tommy.penup()
 tommy.goto(x,y-interval*11)  #每次减25
-tommy.write("  永远陪着你哪怕是海角天涯",font=('微软雅黑', 12, 'bold'))
+tommy.write("  其实我也一直有件事想问你",font=('微软雅黑', 12, 'bold'))
 time.sleep(4)
 
 tommy.color("cyan")
 tommy.penup()
 tommy.goto(x,y-interval*12)  #每次减25
-tommy.write("  从此希望你明白",font=('微软雅黑', 12, 'bold'))
+tommy.write("  可是我不敢问",font=('微软雅黑', 12, 'bold'))
 time.sleep(4)
 
 tommy.color("medium slate blue")
 tommy.penup()
 tommy.goto(x,y-interval*13)  #每次减25
-tommy.write("  我就在你身旁",font=('微软雅黑', 12, 'bold'))
+tommy.write("  我怕问了后果很严重",font=('微软雅黑', 12, 'bold'))
 time.sleep(4)
 
 tommy.color("red")
 tommy.penup()
 tommy.goto(x,y-interval*14)  #每次减25
-tommy.write("  无论你在多远的地方",font=('微软雅黑', 12, 'bold'))
+tommy.write("  好吧其实我想问的就是",font=('微软雅黑', 12, 'bold'))
 time.sleep(4)
 
 tommy.color("orange")
 tommy.penup()
 tommy.goto(x,y-interval*15)  #每次减25
-tommy.write("  即使你变了模样",font=('微软雅黑', 12, 'bold'))
+tommy.write("  现在是不是下次了该叫爸爸了",font=('微软雅黑', 12, 'bold'))
 time.sleep(4)
 
 tommy.color("yellow")
 tommy.penup()
 tommy.goto(x,y-interval*16)  #每次减25
-tommy.write("  即使你把我遗忘",font=('微软雅黑', 12, 'bold'))
+tommy.write("  接下来请过目我3天的成果",font=('微软雅黑', 12, 'bold'))
 time.sleep(4)
 
 tommy.color("lime green")
 tommy.penup()
 tommy.goto(x,y-interval*17)  #每次减25
-tommy.write("  你永远都是我心爱的姑娘",font=('微软雅黑', 12, 'bold'))
+tommy.write("  321开始",font=('微软雅黑', 12, 'bold'))
 time.sleep(4)
 
 time.sleep(1)
@@ -338,7 +338,7 @@ tommy.penup()
 tommy.goto(-320, 300)
 tommy.color("orange")
 tommy.pendown()
-tommy.write( "漫天 ｡･ﾟ･(ﾉД`)ヽ(ﾟДﾟ ) 烟花送给你~",font=('微软雅黑', 24, 'normal'))
+tommy.write( "漫天  烟花送给你~",font=('微软雅黑', 24, 'normal'))
 
 pygame.mixer.music.stop()
 file='media/sweet.mp3'
@@ -351,7 +351,7 @@ time.sleep(4)
 
 tommy.penup()
 tommy.goto(-380,-250)
-tommy.write("祝你生日快乐，我的大女票 ο(=•ω＜=)p⌒☆!",font=('微软雅黑', 24, 'normal'))
+tommy.write("祝你生日快乐，我亲爱的好大儿小姐 ο(=•ω＜=)p⌒☆!",font=('微软雅黑', 24, 'normal'))
 
 time.sleep(5)
 
@@ -509,7 +509,7 @@ turtle.goto(135,100)
 
 turtle.penup()
 turtle.goto(-85,-140)
-turtle.write("love u ",font=("微软雅黑",24,"normal"))
+turtle.write("爱你 ",font=("微软雅黑",24,"normal"))
 
 time.sleep(5)
 
