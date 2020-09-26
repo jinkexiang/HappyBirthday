@@ -338,7 +338,7 @@ tommy.penup()
 tommy.goto(-320, 300)
 tommy.color("orange")
 tommy.pendown()
-tommy.write( "漫天  烟花送给你~",font=('微软雅黑', 24, 'normal'))
+tommy.write( "漫天，烟花送给你~",font=('微软雅黑', 24, 'normal'))
 
 pygame.mixer.music.stop()
 file='media/sweet.mp3'
